@@ -14,14 +14,6 @@
 
 
 
-
-
-
-
-
-
-
-
 body,
 input,
 textarea,
@@ -588,56 +580,6 @@ h6,
 }
 #msg-box6-j .btn {
   font-size: 16px;
-}
-#features2-17 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
-}
-#features2-17 .mbr-cards-col:nth-child(odd) .card-title {
-  font-size: 24px;
-}
-#features2-17 .mbr-cards-col:nth-child(even) .card-title {
-  font-size: 24px;
-}
-#features2-17 .mbr-cards-col:nth-child(odd) .card-subtitle {
-  font-size: 16px;
-  font-family: 'Montserrat', sans-serif;
-}
-#features2-17 .mbr-cards-col:nth-child(even) .card-subtitle {
-  font-size: 16px;
-  font-family: 'Montserrat', sans-serif;
-}
-#features2-17 .mbr-cards-col:nth-child(odd) .card-text {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 18px;
-}
-#features2-17 .mbr-cards-col:nth-child(even) .card-text {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 18px;
-}
-#features2-19 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
-}
-#features2-19 .mbr-cards-col:nth-child(odd) .card-title {
-  font-size: 24px;
-}
-#features2-19 .mbr-cards-col:nth-child(even) .card-title {
-  font-size: 24px;
-}
-#features2-19 .mbr-cards-col:nth-child(odd) .card-subtitle {
-  font-size: 16px;
-  font-family: 'Montserrat', sans-serif;
-}
-#features2-19 .mbr-cards-col:nth-child(even) .card-subtitle {
-  font-size: 16px;
-  font-family: 'Montserrat', sans-serif;
-}
-#features2-19 .mbr-cards-col:nth-child(odd) .card-text {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 18px;
-}
-#features2-19 .mbr-cards-col:nth-child(even) .card-text {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 18px;
 }
 #msg-box8-m .mbr-section-title,
 #msg-box8-m p {
