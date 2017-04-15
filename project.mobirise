@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 47,
+    "uniqCompNum": 48,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -396,7 +396,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000",
             "inverse": true,
             "showTitle": true,
@@ -426,7 +426,7 @@
             }
           },
           "title": "Idle Town (2015) [Android/iOS]&nbsp;<div>Role: Lead Game Artist, Game Designer, Animator, Social Marketeer<br></div>",
-          "text": "<span style=\"line-height: 1.5;\">-Designed the game's buildings and created&nbsp;</span><span style=\"font-size: 18px; line-height: 1.5;\">concept</span><span style=\"line-height: 1.5;\"> art for the world.</span><br>-Modelled all 3d assets in-game.<br>-Animated a 3d game trailer.<br>-Designed user interface and UI assets.<br>-Created social media promotional posts such as videos, new content updates posts, game trailers and teasers.<br>-Managed social media pages and press releases.<br>-Created promotional screenshots for Android and iOS Stores.<br><br>Tech: Unity, Blender, Photoshop, Paint Tool SAI, Premier<br> ",
+          "text": "<span style=\"line-height: 1.5;\">-Designed the game's buildings and created&nbsp;</span><span style=\"font-size: 18px; line-height: 1.5;\">concept</span><span style=\"line-height: 1.5;\"> art for the world.</span><br>-Modelled all 3d assets in-game.<br>-Animated a 3d game trailer.<br>-Designed user interface and created all UI assets.<br>-Created social media promotional posts such as videos, new content updates posts, game trailers and teasers.<br>-Managed social media pages and press releases.<br>-Created promotional screenshots for Android and iOS Stores.<br><br>Tech: Unity, Blender, Photoshop, Paint Tool SAI, Premier<br> ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/watch?v=9UAWLngZpWY\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span>TRAILER</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://itunes.apple.com/pt/app/idle-town/id1032181994?mt=8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span>APP STORE</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://play.google.com/store/apps/details?id=com.WipGames.idle&amp;hl=pt_PT\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span>GOOGLE PLAY</a>"
         },
         {
