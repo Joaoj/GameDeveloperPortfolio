@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 48,
+    "uniqCompNum": 52,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -127,7 +127,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">João Jacinto Sarabando<br><span style=\"font-weight: normal;\">GAME</span> <span style=\"font-weight: normal;\">DEVELOPER</span><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://docs.google.com/document/d/11yYC2ruhL06PowkoZplXmo9R70HIudjdTsghTO-2GQc/edit?usp=sharing\" target=\"_blank\"><span class=\"etl-icon icon-trophy mbr-iconfont mbr-iconfont-btn\"></span>RÉSUMÉ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html#form1-z\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>E-MAIL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://www.linkedin.com/in/jo%C3%A3o-jacinto-39912b125/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>LINKEDIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://docs.google.com/document/d/11yYC2ruhL06PowkoZplXmo9R70HIudjdTsghTO-2GQc/edit?usp=sharing\" target=\"_blank\"><span class=\"etl-icon icon-trophy mbr-iconfont mbr-iconfont-btn\"></span>RESUME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html#form1-z\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>E-MAIL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://www.linkedin.com/in/jo%C3%A3o-jacinto-39912b125/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>LINKEDIN</a></li>"
         },
         {
           "_styles": {
@@ -172,7 +172,7 @@
             "showCaption": true
           },
           "title": "Hi! Olá!",
-          "caption": "<p>Welcome to the portfolio of João Jacinto Sarabando,&nbsp;<span style=\"line-height: 1.5;\"><b>game developer</b>, <b>hard worker</b>, and&nbsp;</span><span style=\"line-height: 1.5;\"><b>life enthusiast</b>!</span></p><p>I'm your every day type of geek with a degree in <b>Engineering&nbsp;in Video Game Development</b>&nbsp;and who's&nbsp;<b>extremely passionate</b> about <b>tailoring engaging game experiences</b>, <b>game design and art</b> and enjoys <b>tackling problems</b>&nbsp;head-on and with a&nbsp;<b>positive attitude</b>.</p><p>Feel free to take a look around and to get in touch with me!</p>"
+          "caption": "<p>Welcome to the portfolio of João Jacinto Sarabando,&nbsp;<span style=\"line-height: 1.5;\"><b>game developer</b>, <b>hard worker</b>, and&nbsp;</span><span style=\"line-height: 1.5;\"><b>life enthusiast</b>!</span></p><p>With a degree in <b>Engineering&nbsp;in Video Game Development, </b>I'm&nbsp;<b>extremely passionate</b> about <b>tailoring engaging game experiences</b>, <b>game design and art</b> and enjoys <b>tackling problems</b>&nbsp;head-on &nbsp;with a&nbsp;<b>positive attitude</b>.</p><p>Feel free to take a look around and get in touch with me!</p>"
         },
         {
           "_inherit": "msg-box5",
@@ -347,9 +347,118 @@
               "size": 0
             }
           },
-          "title": "<span style=\"letter-spacing: -1px; line-height: 1.1;\">Fusion Masters (2016) [Android/iOS]<span style=\"font-weight: normal;\">&nbsp;</span></span><br><span style=\"letter-spacing: -1px; line-height: 1.1; color: rgb(250, 197, 28);\">Role:</span><span style=\"letter-spacing: -1px; line-height: 1.1; color: rgb(250, 197, 28);\"> Lead Game Artist, Game Designer, UI Designer, Social Marketeer</span><br>",
-          "text": "<span style=\"color: rgb(255, 255, 255); font-family: Montserrat, sans-serif; font-size: 18px; line-height: 1.5;\">-Designed the concept art of over 150 characters and created all visual assets such as cards, backgrounds and animation sprites.</span><br>-Designed the game's user interface and created UI assets, for both fighting and menu titles.<br>-Created all Particle Systems and it's sprites for combat and all menu screens FX animations.<br>-Created social media promotional posts such as videos, new content updates posts, game trailers and teasers.<br>-Managed social media pages and press releases.<br>-Created promotional screenshots for Android and iOS Stores.<br><br>Tech: Unity, Photoshop, Paint Tool SAI, Premier<br>",
+          "title": "<span style=\"letter-spacing: -1px; line-height: 1.1;\">Fusion Masters (2016) [Android/iOS]<span style=\"font-weight: normal;\">&nbsp;</span></span><br><i><span style=\"letter-spacing: -1px; line-height: 1.1; color: rgb(250, 197, 28);\">Role:</span><span style=\"letter-spacing: -1px; line-height: 1.1; color: rgb(250, 197, 28);\"> Lead Game Artist, Game Designer, UI Designer, Social Media Manager</span></i><br>",
+          "text": "-Designed the concept art of over 150 characters and created all visual game assets;<br>-Designed the UI for both fighting and menu titles and created UI assets;<br>-Created all Particle Systems and animations sprites for combat and all menu screens FX animations;<br>-Created social media promotional posts such as videos, new content updates posts, game trailers and teasers;<br>-Managed social media pages and press releases;<br>-Created promotional screenshots for Android and iOS Stores.<br><br>Tech: Unity, Photoshop, Paint Tool SAI, Premier<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/watch?v=PcpMSzpvuTw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>TRAILER</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://itunes.apple.com/pt/app/fusion-masters/id1156058830?mt=8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>APP STORE</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://play.google.com/store/apps/details?id=com.WIPGames.FusionMasters&amp;hl=pt_PT\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>GOOGLE PLAY</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "timeout": "10",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2-1-2000x1125.png",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/PcpMSzpvuTw",
+                "overlay": false,
+                "overlayOpacity": "0.6",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x1125.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.6",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/3-2-2000x1125.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.6",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2-1-2000x1125.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.6",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1125.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.6",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1125.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.6",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#000000",
+            "showBullets": true
+          },
+          "_anchor": "slider-1c",
+          "articleLayout": false
         },
         {
           "_inherit": "msg-box5",
@@ -425,9 +534,118 @@
               "size": 0
             }
           },
-          "title": "Idle Town (2015) [Android/iOS]&nbsp;<div>Role: Lead Game Artist, Game Designer, Animator, Social Marketeer<br></div>",
-          "text": "<span style=\"line-height: 1.5;\">-Designed the game's buildings and created&nbsp;</span><span style=\"font-size: 18px; line-height: 1.5;\">concept</span><span style=\"line-height: 1.5;\"> art for the world.</span><br>-Modelled all 3d assets in-game.<br>-Animated a 3d game trailer.<br>-Designed user interface and created all UI assets.<br>-Created social media promotional posts such as videos, new content updates posts, game trailers and teasers.<br>-Managed social media pages and press releases.<br>-Created promotional screenshots for Android and iOS Stores.<br><br>Tech: Unity, Blender, Photoshop, Paint Tool SAI, Premier<br> ",
+          "title": "Idle Town (2015) [Android/iOS]&nbsp;<div><i>Role: Lead Game Artist, Game Designer, Animator, Social Media Manager</i><br></div>",
+          "text": "<span style=\"line-height: 1.5;\">-</span>Designed concept art for buildings and the game world;<br>-Created all 3D in-game models;<br>-Created a 3D animated game trailer for press release;<br>-Designed UI and created all UI assets;<br>-Created social media promotional posts such as videos, new content updates posts, game trailers and teasers;<br>-Managed social media pages and press releases;<br>-Created game promotional screenshots for Android and iOS Stores;<br><br>Tech: Unity, Blender, Photoshop, Paint Tool SAI, Premier<br> ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/watch?v=9UAWLngZpWY\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span>TRAILER</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://itunes.apple.com/pt/app/idle-town/id1032181994?mt=8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span>APP STORE</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://play.google.com/store/apps/details?id=com.WipGames.idle&amp;hl=pt_PT\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span>GOOGLE PLAY</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "timeout": "10",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2-1-2000x11257.png",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/6Fne5590nSE",
+                "overlay": false,
+                "overlayOpacity": "0.6",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/s3-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.6",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sreenshot-1-en-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.6",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sreenshot-2-en-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.6",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sreenshot-3-en-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://youtu.be/6Fne5590nSE",
+                "overlay": false,
+                "overlayOpacity": "0.6",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/sreenshot-4-en-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://youtu.be/6Fne5590nSE",
+                "overlay": false,
+                "overlayOpacity": "0.6",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#000000",
+            "showBullets": true
+          },
+          "_anchor": "slider-1f",
+          "articleLayout": false
         },
         {
           "_styles": {
