@@ -256,7 +256,7 @@
               "size": 0
             }
           },
-          "title": "WIP Games <span style=\"font-weight: normal;\">(September 2014 - Present)</span>&nbsp;<br><div><span style=\"font-size: 24px; letter-spacing: -1px; line-height: 1.1;\">Lead Game Artist, Co-Founder</span></div>",
+          "title": "WIP Games <span style=\"font-weight: normal;\">(September 2014 - Present)</span>&nbsp;<br><div><span style=\"font-size: 24px; letter-spacing: -1px; line-height: 1.1;\">Art Director, Co-Founder</span></div>",
           "text": "Met a couple of passionate and fun folk back in September 2014 - we've been prototyping and shipping mobile games ever since.<br> ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.facebook.com/WIPGameStudios/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span><strong>SEE MORE</strong></a>"
         },
@@ -551,7 +551,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/2-1-2000x11257.png",
+                "image": "@PROJECT_PATH@/assets/images/2-1-2000x11258.png",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/6Fne5590nSE",
                 "overlay": false,
